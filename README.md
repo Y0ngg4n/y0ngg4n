@@ -25,6 +25,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix common Deepin Desktop Problems on Manjaro](https://blog.oblivioncoding.pro/fix-common-deepin-desktop-problems-manajaro/)
+- [Automatically Generate Doxygen Documentation for all Repositories](https://blog.oblivioncoding.pro/gendoxy/)
+- [Bahn Beschwerde Email Generator](https://blog.oblivioncoding.pro/bahn-beschwerde-email-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
