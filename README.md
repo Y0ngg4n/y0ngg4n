@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AUR automated Build System Pipeline with Drone CI](https://blog.oblivioncoding.pro/aur-build/)
+- [Extended Bitwarden REST API](https://blog.oblivioncoding.pro/extended-bitwarden-rest-api/)
+- [Fix common Deepin Desktop Problems on Manjaro](https://blog.oblivioncoding.pro/fix-common-deepin-desktop-problems-manajaro/)
+- [Automatically Generate Doxygen Documentation for all Repositories](https://blog.oblivioncoding.pro/gendoxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
