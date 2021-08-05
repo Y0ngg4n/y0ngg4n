@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0ngg4n&label=Profile%20views&color=0e75b6&style=flat" alt="y0ngg4n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ngg4n" alt="y0ngg4n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ngg4n&no-bg=true" alt="y0ngg4n" /></a> </p>
 
 - 🔭 I’m currently working on [a is a open source, free and self-hostable Whiteboard Application.](https://github.com/Y0ngg4n/fluffy_board)
 
