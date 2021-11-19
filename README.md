@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ngg4n&theme=discord" alt="y0ngg4n" /></a> </p>
 
-- 🔭 I’m currently working on [a is a open source, free and self-hostable Whiteboard Application.](https://github.com/Y0ngg4n/fluffy_board)
+- 🔭 I’m currently working on [Fluffyboard](https://github.com/Y0ngg4n/fluffy_board) and the [Volt Campaigner App](https://github.com/Y0ngg4n/volt_campaigner)
 
 - 🌱 I’m currently learning **advanced flutter/dart and rust**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [automated Testing on my fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
 
-- 👨‍💻 All of my projects are available at [https://git.oblivioncoding.pro/explore/repos](https://git.oblivioncoding.pro/explore/repos)
+- 👨‍💻 All of my other projects are available at [Gitea](https://git.oblivioncoding.pro/explore/repos) and [Gitlab](https://gitlab.com/yonggan)
 
 - 📝 I regularly write articles on [https://blog.oblivioncoding.pro/](https://blog.oblivioncoding.pro/)
 
