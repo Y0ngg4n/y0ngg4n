@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix messed up NordVPN resolv.conf on Linux](https://blog.oblivioncoding.pro/fix-nordvpn-resolv-conf/)
 - [Github Actions instead of Dockerhub automated builds](https://blog.oblivioncoding.pro/github-actions-instead-of-dockerhub-automated-builds/)
 - [Sony WH-1000xm3 - Bluetooth fix Sound on Linux](https://blog.oblivioncoding.pro/sony-wh-1000mx3-linux-fix/)
 - [AUR automated Build System Pipeline with Drone CI](https://blog.oblivioncoding.pro/aur-build/)
-- [Extended Bitwarden REST API](https://blog.oblivioncoding.pro/extended-bitwarden-rest-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
