@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my kubernetes cluster and my [fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
 
-- 🌱 I’m currently learning **advanced flutter/dart and rust, kubernetes, lavarel**
+- 🌱 I’m currently learning **advanced flutter/dart, rust, kubernetes and lavarel**
 
 - 👯 I’m looking to collaborate on [my fluffy_board project and the volt campaigner app](https://github.com/Y0ngg4n/fluffy_board)
 
