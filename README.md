@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0ngg4n&label=Profile%20views&color=0e75b6&style=flat" alt="y0ngg4n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ngg4n" alt="y0ngg4n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ngg4n&theme=discord" alt="y0ngg4n" /></a> </p>
 
 - 🔭 I’m currently working on [my kubernetes cluster and my fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [automated Testing on my fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
 
-- 👨‍💻 All of my projects are available at [https://git.oblivioncoding.pro/explore/repos](https://git.oblivioncoding.pro/explore/repos)
+- 👨‍💻 All of my projects are available at [Gitea](https://git.oblivioncoding.pro/explore/repos) and [Gitlab](https://gitlab.com/yonggan)
 
 - 📝 I regularly write articles on [https://blog.oblivioncoding.pro/](https://blog.oblivioncoding.pro/)
 
@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix messed up NordVPN resolv.conf on Linux](https://blog.oblivioncoding.pro/fix-nordvpn-resolv-conf/)
+- [Github Actions instead of Dockerhub automated builds](https://blog.oblivioncoding.pro/github-actions-instead-of-dockerhub-automated-builds/)
+- [Sony WH-1000xm3 - Bluetooth fix Sound on Linux](https://blog.oblivioncoding.pro/sony-wh-1000mx3-linux-fix/)
+- [AUR automated Build System Pipeline with Drone CI](https://blog.oblivioncoding.pro/aur-build/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
