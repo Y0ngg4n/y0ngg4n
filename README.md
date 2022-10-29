@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0ngg4n&theme=discord" alt="y0ngg4n" /></a> </p>
 
+[![@yonggan's Holopin board](https://holopin.me/yonggan)](https://holopin.io/@yonggan)
+
 - 🔭 I’m currently working on my kubernetes cluster (with FluxCI) and my [fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
 
 - 🌱 I’m currently learning **advanced flutter/dart, rust, kubernetes and lavarel**
