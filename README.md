@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix operation not permitted error in LXC](https://blog.oblivioncoding.pro/404/)
 - [FritzBox! port forward floating IP &lpar;VIP&rpar;](https://blog.oblivioncoding.pro/fritzbox-port-forward-floating-ip-vip/)
 - [Docker connect 2 containers with network_mode: service:...](https://blog.oblivioncoding.pro/access/)
 - [Enable NVENC for FFMPEG](https://blog.oblivioncoding.pro/enable-nvenc-for-ffmpeg/)
-- [Kubernetes: Remove stuck namespace in Terminating state](https://blog.oblivioncoding.pro/kubernetes-remove-hanging/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
