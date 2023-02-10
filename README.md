@@ -7,7 +7,7 @@
 
 [![@yonggan's Holopin board](https://holopin.me/yonggan)](https://holopin.io/@yonggan)
 
-- 🔭 I’m currently working on my kubernetes cluster (with FluxCI) and my [fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
+- 🔭 I’m currently working on my kubernetes cluster (with FluxCD) and my [fluffy_board project](https://github.com/Y0ngg4n/fluffy_board)
 
 - 🌱 I’m currently learning **advanced flutter/dart, rust, kubernetes and lavarel**
 
