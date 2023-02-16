@@ -27,7 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [VIP Kubernetes Talos](https://blog.obco.pro/create-a-ha-kubernetes-cluster-with-proxmox-and-talos/)
+- [VIP Kubernetes Talos](https://blog.obco.pro/404/)
 - [Fix operation not permitted error in LXC](https://blog.obco.pro/fix-operation-not-permitted-error-in-lxc/)
 - [FritzBox! port forward floating IP &lpar;VIP&rpar;](https://blog.obco.pro/fritzbox-port-forward-floating-ip-vip/)
 - [Docker connect 2 containers with network_mode: service:...](https://blog.obco.pro/access/)
