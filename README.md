@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [vaultwarden.net: Public vaultwarden Server](https://blog.obco.pro/public-vaultwarden-server/)
 - [Recursive bind mount ZFS Datasets to LXC container](https://blog.obco.pro/bind-mount-zfs-datasets-to-lxc-container/)
 - [Fix operation not permitted error in LXC](https://blog.obco.pro/fix-operation-not-permitted-error-in-lxc/)
 - [FritzBox! port forward floating IP &lpar;VIP&rpar;](https://blog.obco.pro/fritzbox-port-forward-floating-ip-vip/)
-- [Docker connect 2 containers with network_mode: service:...](https://blog.obco.pro/access/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
