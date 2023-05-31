@@ -27,7 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Steamdeck: The rabbithole](https://blog.obco.pro/steamdeck-the-rabbithole/)
+- [Steamdeck: The rabbithole](https://blog.obco.pro/steamdeck-the-rabbithole-2/)
 - [How to get a virtual Keyboard on the Steamdeck Desktop mode without typing anything](https://blog.obco.pro/how-to-get-a-virtual-keyboard-on-the-steamdeck-without-typing-anything/)
 - [vaultwarden.net: Public vaultwarden Server](https://blog.obco.pro/public-vaultwarden-server/)
 - [Recursive bind mount ZFS Datasets to LXC container](https://blog.obco.pro/bind-mount-zfs-datasets-to-lxc-container/)
