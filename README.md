@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Gitea](https://git.oblivioncoding.pro/explore/repos) and [Gitlab](https://gitlab.com/yonggan)
 
-- 📝 I regularly write articles on [https://blog.oblivioncoding.pro/](https://blog.oblivioncoding.pro/)
+- 📝 I regularly write articles on [https://blog.oblivioncoding.pro/](https://blog.obco.pro/)
 
 - 💬 Ask me about **nodejs, rust, dart, flutter, react, react-native, java, docker, c#, python, html/css/js**
 
