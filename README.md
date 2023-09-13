@@ -38,7 +38,6 @@
 <a href="https://stackoverflow.com/users/8307997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8307997" height="30" width="40" /></a>
 <a href="https://discord.gg/Yonggan#8420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yonggan#8420" height="30" width="40" /></a>
 <a href="/https://blog.obco.pro/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.obco.pro/rss/" height="30" width="40" /></a>
-<code><a rel="me" href="https://firefish.place/@Yonggan"><img src="https://git.joinfirefish.org/firefish/firefish/-/raw/develop/animated.svg" height="30" alt="https://firefish.place/@Yonggan" width="40"/>Firefish</a><code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
