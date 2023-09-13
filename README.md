@@ -37,7 +37,8 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/8307997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8307997" height="30" width="40" /></a>
 <a href="https://discord.gg/Yonggan#8420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yonggan#8420" height="30" width="40" /></a>
-<a href="/https://blog.oblivioncoding.pro/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.oblivioncoding.pro/rss/" height="30" width="40" /></a>
+<a href="/https://blog.obco.pro/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.obco.pro/rss/" height="30" width="40" /></a>
+ <code><a rel="me" href="https://firefish.place/@Yonggan">Firefish</a><code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,4 +50,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y0ngg4n&show_icons=true&theme=radical&locale=en&layout=compact" alt="y0ngg4n" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y0ngg4n&show_icons=true&theme=radical&locale=en" alt="y0ngg4n" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y0ngg4n&theme=dark" alt="y0ngg4n" /></p>
-
