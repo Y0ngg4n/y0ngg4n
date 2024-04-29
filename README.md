@@ -45,7 +45,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Yonggan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yonggan" /></a><a href="https://ko-fi.com/yonggan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yonggan" /></a>
-<script src="https://liberapay.com/Yonggan/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/Yonggan/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 </p><br><br>
 <br>
