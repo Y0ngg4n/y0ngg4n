@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Neuer Post](https://blog.obco.pro/neuer-post/)
 - [Fix NeoBackup denied access to usage data on LineageOS](https://blog.obco.pro/fix-neobackup-denied-access-to-usage-data-on-lineageos-2/)
 - [Doom Emacs: Fix configs not applied when installed](https://blog.obco.pro/doom-emacs-fix-configs-not-applied-when-installed/)
 - [Fix Shutdown/Reboot Issues with Framework 16 Laptop](https://blog.obco.pro/fix-shutdown-reboot-issues-with-framework-16/)
-- [How to migrate Sealed Secrets from a k8s cluster to another](https://blog.obco.pro/how-to-migrate-sealed-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
